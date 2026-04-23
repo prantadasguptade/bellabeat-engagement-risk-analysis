@@ -51,7 +51,7 @@ onboarding experience for the Leaf device to reduce churn risk?
 | Tool | Purpose |
 |------|---------|
 | BigQuery SQL | Data cleaning, risk score engineering, aggregations |
-| R (ggplot2, tidyverse) | Statistical analysis, 5 visualisation charts |
+| R (ggplot2, tidyverse) | Statistical analysis, 4 visualisation charts |
 | Power BI | Interactive 3-page dashboard with slicer |
 | Advanced Excel | Data dictionary, cleaning log, findings summary |
 
