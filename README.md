@@ -89,4 +89,29 @@ new user onboarding flow from Day 1.
 
 ---
 
-## Repository Structure
+## Repository Structure 
+---
+
+## Data Source
+
+FitBit Fitness Tracker Data — Kaggle (CC0 Public Domain)  
+[https://www.kaggle.com/datasets/arashnic/fitbit](https://www.kaggle.com/datasets/arashnic/fitbit)  
+33 users · 31 days · Apr–May 2016
+
+---
+
+## Limitations
+
+- Small sample size (n=32 users) — findings are directional, 
+  not statistically definitive
+- Data from 2016 — wearable behaviour has evolved; findings 
+  supplemented with current industry benchmarks
+- No gender metadata — analysed as proxy for Bellabeat's 
+  female-focused product line
+- 31-day window only — proxy disengagement variable used 
+  instead of true long-term churn
+
+---
+
+*Pranta Dasgupta | [LinkedIn](https://www.linkedin.com/in/prantadasgupta/) 
+| [GitHub](https://github.com/prantadasguptade)*  
