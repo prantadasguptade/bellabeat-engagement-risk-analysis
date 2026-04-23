@@ -36,13 +36,13 @@ onboarding experience for the Leaf device to reduce churn risk?
 ## Dashboard Preview
 
 ### Page 1 — Risk Overview
-![Page 1](dashboard/dashboard_page1_overview.png)
+![Page 1](https://github.com/prantadasguptade/bellabeat-engagement-risk-analysis/blob/69787d89737f845e255919987c113f7abbf86091/Engagement%20Risk%20Overview.PNG)
 
 ### Page 2 — Behavioural Patterns
-![Page 2](dashboard/dashboard_page2_behaviour.png)
+![Page 2](https://github.com/prantadasguptade/bellabeat-engagement-risk-analysis/blob/69787d89737f845e255919987c113f7abbf86091/Behavioural%20Pattern.PNG)
 
 ### Page 3 — Risk Profiles & Recommendations
-![Page 3](dashboard/dashboard_page3_recommendations.png)
+![Page 3](https://github.com/prantadasguptade/bellabeat-engagement-risk-analysis/blob/69787d89737f845e255919987c113f7abbf86091/Risk%20Profiles%20and%20Recommendations.PNG)
 
 ---
 
