@@ -90,6 +90,29 @@ new user onboarding flow from Day 1.
 ---
 
 ## Repository Structure 
+## Repository Structure
+
+| Folder/File | Contents |
+|-------------|----------|
+| `Risk_Score_Final.sql` | BigQuery SQL — engagement risk score pipeline |
+| `DailyActivityMergedClean.csv` | Cleaned daily activity data |
+| `SleepDayMergedCleaned.csv` | Cleaned sleep data |
+| `HourlyStepsMergedCleaned.csv` | Cleaned hourly steps data |
+| `Risk_Score_Table_Final.csv` | Final user risk scores (BigQuery output) |
+| `Key Finding.xlsx` | Summary findings table (Excel) |
+| `bellabeat_analysis.R` | Complete R analysis script — 5 charts |
+| `Bellabeat Engagement Risk Analysis.pbix` | Power BI dashboard (3 pages) |
+| `Bellabeat Engagement Risk Analysis Power BI.pdf` | Dashboard export PDF |
+| `Engagement Risk Overview.PNG` | Dashboard Page 1 screenshot |
+| `Behavioural Pattern.PNG` | Dashboard Page 2 screenshot |
+| `Risk Profiles and Recommendations.PNG` | Dashboard Page 3 screenshot |
+| `chart1_risk_distribution.png` | R chart — risk distribution |
+| `chart2_step_decline.png` | R chart — step decline by risk group |
+| `chart3_day_of_week.png` | R chart — steps by day of week |
+| `chart4_sleep_risk.png` | R chart — sleep by risk group |
+
+
+
 ---
 
 ## Data Source
